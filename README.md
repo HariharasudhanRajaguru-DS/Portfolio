@@ -6,3 +6,6 @@ Countries are spending a vast amount of money to send satellites to space. Once 
 
 ## Step 2 : Data collection 
 The data of previous launches gathered from Space X Rest API, also from Wikipedia by Web Scrapping with Beautiful Soup(bs4). 
+
+## Step 3 : Data Preparation
+These data must be cleaned. With the help of Pandas data frame, we can able to view the data in dataframe. The data was wrangled for further analysis. There may be columns without values, few data may don't add any value to the analysis.
