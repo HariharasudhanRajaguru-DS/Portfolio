@@ -9,3 +9,6 @@ The data of previous launches gathered from Space X Rest API, also from Wikipedi
 
 ## Step 3 : Data Preparation
 These data must be cleaned. With the help of Pandas data frame, we can able to view the data in dataframe. The data was wrangled for further analysis. There may be columns without values, few data may don't add any value to the analysis.
+
+## Step 4 : Data Analysis (Exploratory Data Analysis - EDA)
+Exploratory Data Analysis helps us to plot to scatter plots, bar charts and many more to identify the relationships between the key factors for a successful landing.
