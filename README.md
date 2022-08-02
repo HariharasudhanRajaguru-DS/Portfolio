@@ -52,8 +52,10 @@ I have used K Nearest Neighbor(KNN), Decision Tree, Support Vector Machine, Logi
 
 All the train data sets are fit into the models and test datas are helped to predict the outcome of trained models, plotted confusion matix to analyse the prediction vs actual results, also the accuracy has been calculated using score function to find the best model.
 
-## Story Telling : Final Presentation
+## Step 6 : Story Telling_Final Presentation
+The PDF presentation provides the overall process and the outcomes of the complete project.
 [IBM_Data Science_Capstone_Project_Fianl Presentation____](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/ds-capstone-template-coursera%20-Final%20submit.pdf)
+
 
 
 
