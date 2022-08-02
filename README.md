@@ -34,14 +34,31 @@ From the analysis we can able to provide solutions for the following questions:
 Conclusions:
 
 1.launch sites are in close proximity to equator to minimize fuel consumption by using Earth's ~ 30km/sec eastward spin to help spaceships get into orbit.
+
 2.Launch sites are in close proximity to coastline so they can fly over the ocean during launch, for at least two safety reasons--
 (1) crew has option to abort launch and attempt water landing
 (2) minimize people and property at risk from falling debris.
+
 3.Launch sites are in close proximity to highways, which allows for easily transport required people and property.
+
 4.Launch sites are in close proximity to railways, which allows transport for heavy cargo.
+
 5.Launch sites are not in close proximity to cities, which minimizes danger to population dense areas.
 
 ## Step 5 : Building Machine Learing model
+In this step the data collected has splitted into train and test datasets.
+
+I have used K Nearest Neighbor(KNN), Decision Tree, Support Vector Machine, Logistic Regression
+
+All the train data sets are fit into the models and test datas are helped to predict the outcome of trained models, plotted confusion matix to analyse the prediction vs actual results, also the accuracy has been calculated using score function to find the best model.
+
+## Story Telling : Final Presentation
+IBM_Data Science_Capstone_Project_Fianl Presentation____(https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/ds-capstone-template-coursera%20-Final%20submit.pdf)
+
+
+
+
+
 
 
 
