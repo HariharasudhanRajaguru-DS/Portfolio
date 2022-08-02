@@ -22,6 +22,7 @@ Marking the success/failed launches for each site on the map
 Calculating the distances between a launch site to its proximities
 
 From the analysis we can able to provide solutions for the following questions:
+
 1.Are launch sites in close proximity to railways?
 
 2.Are launch sites in close proximity to highways?
@@ -39,5 +40,8 @@ Conclusions:
 3.Launch sites are in close proximity to highways, which allows for easily transport required people and property.
 4.Launch sites are in close proximity to railways, which allows transport for heavy cargo.
 5.Launch sites are not in close proximity to cities, which minimizes danger to population dense areas.
+
+## Step 5 : Building Machine Learing model
+
 
 
