@@ -51,7 +51,7 @@ The PDF presentation provides the overall process and the outcomes of the comple
 
 Face lanmark detection 
 
-![](./images/Face_landmark__PIC_68.jpg)
+![](./images/Face_landmark__PIC_68.png)
 
 
 
