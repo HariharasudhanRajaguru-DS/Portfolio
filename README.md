@@ -56,7 +56,7 @@ ____
 
 Face lanmark detection 
 
-![](https://github.com/HariharasudhanRajaguru-DS/Data-scientist-exercises/blob/main/images/Face_landmark__PIC_68.png)
+![sample output](https://github.com/HariharasudhanRajaguru-DS/Data-scientist-exercises/blob/main/images/Face_landmark__PIC_68.png)
 
 
 
