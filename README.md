@@ -49,6 +49,10 @@ The PDF presentation provides the overall process and the outcomes of the comple
 
 ### [Exercise : Face landmark detection](https://github.com/HariharasudhanRajaguru-DS/Data-scientist-exercises/blob/main/face.py)
 
+Face lanmark detection 
+
+![](./images/Face_landmark__PIC_68.jpg)
+
 
 
 
