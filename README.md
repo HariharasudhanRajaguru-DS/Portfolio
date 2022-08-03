@@ -46,8 +46,7 @@ The PDF presentation provides the overall process and the outcomes of the comple
 
 [IBM_Data Science_Capstone_Project_Fianl Presentation____](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/ds-capstone-template-coursera%20-Final%20submit.pdf)
 
-=======================================================================================================================================================================
-
+__________________________________________________________________________________________________________________________________
 ### [Exercise : Face landmark detection](https://github.com/HariharasudhanRajaguru-DS/Data-scientist-exercises/blob/main/face.py)
 
 Face lanmark detection 
