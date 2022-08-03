@@ -31,8 +31,8 @@ From the analysis, we are able to provide solutions for the following questions:
 Conclusions:
 1. Launch sites are in close proximity to equator to minimize fuel consumption by using Earth’s ~ 30km/sec eastward spin to help spaceships get into orbit.
 2. Launch sites are in close proximity to the coastline so they can fly over the ocean during launch, for at least two safety reasons– 
-  *crew has option to abort launch and attempt water landing 
-  *minimize people and property at risk from falling debris.
+ (1)crew has option to abort launch and attempt water landing 
+  (2)minimize people and property at risk from falling debris.
 4. Launch sites are in close proximity to highways, which allows to easily transport the required people and property.
 5. Launch sites are in close proximity to railways, which allows the transport of heavy cargo.
 6. Launch sites are not in close proximity to cities, which minimizes danger to population-dense areas.
