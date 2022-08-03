@@ -18,9 +18,9 @@ Exploratory Data Analysis helps us to plot data into scatter plots, bar charts a
 The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site, i.e. the initial position of rocket trajectories. Finding an optimal location for building a launch site certainly involves many factors and hopefully we could discover some of the factors by analyzing the existing launch site locations.
 
 This can be achieved by:
-1) Marking all launch sites on a map; 
-2) Marking the success/failed launches for each site on the map; 
-3) Calculating the distances between a launch site to its proximities.
+1. Marking all launch sites on a map; 
+2. Marking the success/failed launches for each site on the map; 
+3. Calculating the distances between a launch site to its proximities.
 
 From the analysis, we are able to provide solutions for the following questions:
 1. Are launch sites in close proximity to railways?
@@ -30,10 +30,12 @@ From the analysis, we are able to provide solutions for the following questions:
 
 Conclusions:
 1. Launch sites are in close proximity to equator to minimize fuel consumption by using Earth’s ~ 30km/sec eastward spin to help spaceships get into orbit.
-2. Launch sites are in close proximity to the coastline so they can fly over the ocean during launch, for at least two safety reasons– (1) crew has option to abort launch and attempt water landing (2) minimize people and property at risk from falling debris.
-3. Launch sites are in close proximity to highways, which allows to easily transport the required people and property.
-4. Launch sites are in close proximity to railways, which allows the transport of heavy cargo.
-5. Launch sites are not in close proximity to cities, which minimizes danger to population-dense areas.
+2. Launch sites are in close proximity to the coastline so they can fly over the ocean during launch, for at least two safety reasons– 
+  i. crew has option to abort launch and attempt water landing 
+  ii.minimize people and property at risk from falling debris.
+4. Launch sites are in close proximity to highways, which allows to easily transport the required people and property.
+5. Launch sites are in close proximity to railways, which allows the transport of heavy cargo.
+6. Launch sites are not in close proximity to cities, which minimizes danger to population-dense areas.
 
 ## Step 5 : Building Machine Learing model
 In this step, the data collected has been split into train and test datasets.
