@@ -17,7 +17,7 @@ Exploratory Data Analysis helps us to plot data into scatter plots, bar charts a
 
 The launch success rate may depend on many factors such as payload mass, orbit type, and so on. It may also depend on the location and proximities of a launch site, i.e. the initial position of rocket trajectories. Finding an optimal location for building a launch site certainly involves many factors and hopefully we could discover some of the factors by analyzing the existing launch site locations.
 
-This can be achieved by 
+This can be achieved by:
 1) Marking all launch sites on a map; 
 2) Marking the success/failed launches for each site on the map; 
 3) Calculating the distances between a launch site to its proximities.
