@@ -47,7 +47,7 @@ All the train data sets were fitted into the models and test data helped to pred
 ## Step 6 : Story Telling_Final Presentation
 The PDF presentation provides the overall process and the outcomes of the complete project.
 
-<embed src ="https://github.com/HariharasudhanRajaguru-DS/Portfolio/blob/main/presentation/ds-capstone-template-coursera%20-Final%20submit.pdf" width="600px" height="500px"/>
+<embed src ="./presentation/ds-capstone-template-coursera%20-Final%20submit.pdf" width="600px" height="500px"/>
 
 [IBM_Data Science_Capstone_Project_Fianl Presentation____](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/ds-capstone-template-coursera%20-Final%20submit.pdf)
 
