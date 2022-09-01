@@ -48,7 +48,7 @@ All the train data sets were fitted into the models and test data helped to pred
 The PDF presentation provides the overall process and the outcomes of the complete project.
 
 <title>SpaceX project presentation</title>
-<embed src ="./presentation/ds-capstone-template-coursera%20-Final%20submit.pdf" width="1000px" height="500px"/>
+<embed src ="./presentation/ds-capstone-template-coursera%20-Final%20submit.pdf" width="1000px" title="IBM Capstone project-SpaceX" height="500px"/>
 
 [Open in new window - IBM_Data Science_Capstone_Project_Fianl Presentation](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/ds-capstone-template-coursera%20-Final%20submit.pdf)
 
