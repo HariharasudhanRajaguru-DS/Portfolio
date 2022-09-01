@@ -57,8 +57,7 @@ ____
 ## Using dlib we can detect Facial landmarks like eyes, nose, libs and jawline.
 ### [Exercise : Face landmark detection](https://github.com/HariharasudhanRajaguru-DS/Data-scientist-exercises/blob/main/face.py)
 Face lanmark detection sample tryout
-<embed src ="./images/Face_landmark__PIC_68.png" width="1000px" height="500px"/>
-![sample output](./images/Face_landmark__PIC_68.png)
+<embed src ="./images/Face_landmark__PIC_68.png" width="900px" height="400px"/>
 
 
 
