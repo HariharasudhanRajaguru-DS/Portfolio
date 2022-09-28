@@ -50,6 +50,25 @@ The PDF presentation provides the overall process and the outcomes of the comple
 <embed src ="./presentation/ds-capstone-template-coursera%20-Final%20submit.pdf"  width="1000px" height="500px"/>
 
 [Open in new window - IBM_Data Science_Capstone_Project_Fianl Presentation](https://github.com/HariharasudhanRajaguru-DS/IBM_Data-Science-/blob/main/ds-capstone-template-coursera%20-Final%20submit.pdf)
+____
+
+# Early Drowsiness Detection Alert System
+This project is focused on detecting earlier drowsiness of drivers.
+
+1. Data colleced through webscraping 
+2. Augmented the data to generate more datasets using ImageDataGenerator
+3. Built the CNN3D model (Reference architectures of Alexnet, Resnet, LeNet, VGG, Transfer leaning models has been used to developed)
+4. Trained and tested the model with the dataset
+5. Developed the model procuded above 74% of accuracy level. 
+
+## Model prediction of test dataset
+<embed src ="./images/Screenshot 2022-09-28 192258.png" width="900px" height="400px"/>
+
+## Model prediction of validation dataset
+<embed src ="./images/Screenshot 2022-09-28 192358.png" width="900px" height="400px"/>
+
+## Plotting the train history to view the performance of the model
+<embed src ="./images/Screenshot 2022-09-28 192423.png" width="900px" height="400px"/>
 
 ____
 
