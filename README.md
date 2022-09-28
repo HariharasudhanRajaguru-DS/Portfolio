@@ -1,6 +1,6 @@
-### [IBM Capstone Project - Space X Falcon 9 First Stage Successful Landing Prediction](https://github.com/HariharasudhanRajaguru-DS/Project_Space-X_Presentation) 
+### [Projects: Data Science](https://github.com/HariharasudhanRajaguru-DS/Project_Space-X_Presentation) 
 
- 
+# IBM Capstone Project - Space X Falcon 9 First Stage Successful Landing Prediction
 ## Step 1 : Problem definition 
 Countries are spending a vast amount of money to launch satellites in space. Once a rocket reaches the right distance from earth, it releases the satellite or spacecraft. The stages used in rockets are left in space as junk. Space X successfully brings its first stage back to earth safely. So that it can be reused in the next space launches. It can save a lot of money and reduce development time. Despite the initial failures, Space X has successfully brought back and reused the first stage. In this project, we are going to find the KPIs relevant for a successful first-stage launch.
 
