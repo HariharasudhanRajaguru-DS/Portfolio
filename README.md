@@ -62,13 +62,13 @@ This project is focused on detecting earlier drowsiness of drivers.
 5. Developed the model procuded above 74% of accuracy level. 
 
 ## Model prediction of test dataset
-<embed src ="./images/Screenshot 2022-09-28 192258.png" width="900px" height="400px"/>
+<embed src ="./images/Screenshot 2022-09-28 192258.png" width="1000px" height="500px"/>
 
 ## Model prediction of validation dataset
-<embed src ="./images/Screenshot 2022-09-28 192358.png" width="900px" height="400px"/>
+<embed src ="./images/Screenshot 2022-09-28 192358.png" width="1000px" height="500px"/>
 
 ## Plotting the train history to view the performance of the model
-<embed src ="./images/Screenshot 2022-09-28 192423.png" width="900px" height="400px"/>
+<embed src ="./images/Screenshot 2022-09-28 192423.png" width="1000px" height="500px"/>
 
 ____
 
@@ -76,10 +76,3 @@ ____
 ### [Exercise : Face landmark detection](https://github.com/HariharasudhanRajaguru-DS/Data-scientist-exercises/blob/main/face.py)
 Face lanmark detection sample tryout
 <embed src ="./images/Face_landmark__PIC_68.png" width="900px" height="400px"/>
-
-
-
-
-
-
-
