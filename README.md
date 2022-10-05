@@ -78,4 +78,4 @@ Face lanmark detection sample tryout
 <embed src ="./images/Face_landmark__PIC_68.png" width="900px" height="400px"/>
 ____
 ### [Sample Exercise : Web scraping](https://github.com/HariharasudhanRajaguru-DS/web-scraping/blob/main/bookScraping.ipynb)
-<embed src ="https://github.com/HariharasudhanRajaguru-DS/web-scraping/blob/main/bookScraping.ipynb"  width="1000px" height="500px"/>
+<embed src =./presentation/bookScraping.ipynb"  width="1000px" height="500px"/>
