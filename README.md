@@ -73,6 +73,8 @@ This project is focused on detecting earlier drowsiness of drivers.
 ____
 
 ## Using dlib we can detect Facial landmarks like eyes, nose, libs and jawline.
-### [Exercise : Face landmark detection](https://github.com/HariharasudhanRajaguru-DS/Data-scientist-exercises/blob/main/face.py)
+### [Sample Exercise : Face landmark detection](https://github.com/HariharasudhanRajaguru-DS/Data-scientist-exercises/blob/main/face.py)
 Face lanmark detection sample tryout
 <embed src ="./images/Face_landmark__PIC_68.png" width="900px" height="400px"/>
+____
+### [Sample Exercise : Web scraping](https://github.com/HariharasudhanRajaguru-DS/web-scraping/blob/main/bookScraping.ipynb)
